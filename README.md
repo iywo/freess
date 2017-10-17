@@ -1,7 +1,7 @@
 # Freess
 免费ss账号（长期更新），请右转wiki页面<br />
 doc内为使用教程<br />
-<b>ipv4</b>: 104.140.14.17<br />
+<li>ipv4</li>: 104.140.14.17<br />
 ipv6: 2607:ff28:a005::26a0:35d9<br />
 port: 53<br />
 password: freess<br />
