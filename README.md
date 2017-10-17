@@ -9,3 +9,4 @@ doc内为使用教程<br />
 <li><b>Traffic:</b>   250G/month</li>
 <li><b>ss link:</b>   ss://cmM0LW1kNTpmcmVlc3M@104.140.14.17:53#Virmach</li>
 <li><b>ssr link:</b>  ssr://MTA0LjE0MC4xNC4xNzo1MzpvcmlnaW46cmM0LW1kNTpwbGFpbjpabkpsWlhOei8_b2Jmc3BhcmFtPSZwcm90b3BhcmFtPSZyZW1hcmtzPVZtbHliV0ZqYUEmZ3JvdXA9TlRN</li>
+  saooji
