@@ -1,6 +1,7 @@
 # Freess
 **免费ss账号（长期更新），其他请右转wiki页面<br /><br />
 doc内为使用教程**<br />
+10月流量已用尽
 ___
 <li><b>ipv4:</b>  <code>104.140.14.17</code></li>
 <li><b>ipv6:</b>  <code>2607:ff28:a005::26a0:35d9</code></li>
