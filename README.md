@@ -7,7 +7,7 @@ doc内为使用教程**<br />
 ps: 198服务器端口改为80
 ___
 <li><b>ipv4:</b>  <s><code>104.140.14.17</code></s></li>
-<li><b>ipv6:</b>  <code>2607:ff28:a005::26a0:35d9</code></li>
+<li><b>ipv6:</b>  <s><code>2607:ff28:a005::26a0:35d9</code></s></li>
 <li><b>port:</b>  <code>53</code></li>
 <li><b>password:</b>  <code>freess</code></li>
 <li><b>method:</b>  <code>rc4-md5</code></li>
