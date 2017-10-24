@@ -3,7 +3,8 @@
 doc内为使用教程**<br />
 10月流量已用尽<br />
 帮我挖金币 http://hissr.xyz<br />
-新增一枚服务器，ip见下方
+新增一枚服务器，ip见下方<br />
+ps: 198服务器端口改为80
 ___
 <li><b>ipv4:</b>  <code>104.140.14.17</code>  <code>198.96.88.121</code></li>
 <li><b>ipv6:</b>  <code>2607:ff28:a005::26a0:35d9</code></li>
