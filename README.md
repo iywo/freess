@@ -6,7 +6,7 @@ doc内为使用教程**<br />
 新增一枚服务器，ip见下方<br />
 ps: 198服务器端口改为80
 ___
-<li><b>ipv4:</b>  ~~<code>104.140.14.17</code>~~</li>
+<li><b>ipv4:</b>  ~~104.140.14.17~~</li>
 <li><b>ipv6:</b>  <code>2607:ff28:a005::26a0:35d9</code></li>
 <li><b>port:</b>  <code>53</code></li>
 <li><b>password:</b>  <code>freess</code></li>
