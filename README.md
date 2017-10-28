@@ -3,7 +3,7 @@
 doc内为使用教程**<br />
 10月流量已用尽<br />
 帮我挖金币 https://hissr.xyz<br />
-阿里云服务器 http://yzkj-sc.tk<br />
+来自网上的一枚阿里云服务器 http://yzkj-sc.tk<br />
 新增一枚服务器，ip见下方<br />
 ps: 198服务器端口改为80
 ___
