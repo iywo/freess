@@ -1,7 +1,7 @@
 # Freess
 **免费ss账号（长期更新），其他请右转wiki页面<br /><br />
 doc内为使用教程**<br />
-**更多免费ss账号：https://github.com/max2max/freess/wiki/%E5%85%8D%E8%B4%B9ss%E8%B4%A6%E5%8F%B7/ **<br />
+
 <br />
 帮我挖金币 https://hissr.xyz<br />
 来自网上的一枚阿里云服务器 http://yzkj-sc.tk<br />
@@ -24,4 +24,4 @@ ___
 <li><b>ssr link:</b><code>ssr://MTk4Ljk2Ljg4LjEyMTo4MDphdXRoX3NoYTFfdjQ6cmM0LW1kNTpodHRwX3NpbXBsZTpabkpsWlhOei8_b2Jmc3BhcmFtPSZyZW1hcmtzPVFXeHdhR0Z5WVdOcmN3Jmdyb3VwPVJsSkZSVk5U</code></li>
 ___
 <br />
-**更多免费ss账号：https://github.com/max2max/freess/wiki/%E5%85%8D%E8%B4%B9ss%E8%B4%A6%E5%8F%B7/ **
+<b>更多免费ss账号：</b>https://github.com/max2max/freess/wiki/%E5%85%8D%E8%B4%B9ss%E8%B4%A6%E5%8F%B7/<br />
