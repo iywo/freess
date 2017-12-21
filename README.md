@@ -3,7 +3,7 @@
 doc内为使用教程**<br />
 帮我挖金币 https://hissr.xyz<br />
 来自网上的一枚阿里云服务器 http://yzkj-sc.tk<br />
-ssr定阅链接：https://raw.githubusercontent.com/max2max/freess/master/freenode.txt <br />
+ssr订阅链接：https://raw.githubusercontent.com/max2max/freess/master/freenode.txt <br />
 <br />
 <li><b>ipv4:</b>  <code>104.140.14.17</code></li>
 <li><b>ipv6:</b>  <code>2607:ff28:a005::26a0:35d9</code></li>
