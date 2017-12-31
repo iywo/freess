@@ -1,4 +1,4 @@
-# Freess
+# Freess(有意分享的朋友发个issue即可)
 **免费ss账号（长期更新），其他请右转wiki页面<br /><br />
 doc内为使用教程**<br />
 帮我挖金币 https://hissr.xyz<br />
