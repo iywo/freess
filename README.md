@@ -1,4 +1,4 @@
-# Freess
+# Freess（让轮子见鬼去吧）
 ## 强烈推荐 https://t.me/gyjclub
 **免费ss账号（长期更新），其他请右转wiki页面**<br />
 来自网上的一枚阿里云服务器 http://yzkj-sc.tk<br />
